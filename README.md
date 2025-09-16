@@ -26,6 +26,8 @@ npm run start
 
 Teacher had to open an emulator in Android Studio. Then in the terminal of the previous command he clicked in the option "a" to run the app in the Android emulator.
 
+Then the blank app was showed in the Android emulator.
+
 
 # External link
 
