@@ -13,8 +13,10 @@ In the introduction, teacher reinforced that React (and React Native) uses sever
 Teacher asked us to run the following command (seems equal to the previous command he passed):
 
 ```
-npx create expo app components-overview
+npx create expo app components-overview -t
 ```
+
+And in the question in the terminal about how template to use please select "Blank (TypeScript)
 
 
 # External link
