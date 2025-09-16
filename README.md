@@ -16,7 +16,14 @@ Teacher asked us to run the following command (seems equal to the previous comma
 npx create expo app components-overview -t
 ```
 
-And in the question in the terminal about how template to use please select "Blank (TypeScript)
+And in the question in the terminal about how template to use please select "Blank (TypeScript).
+
+In the next steps in the introduction teacher only accessed the directory created by the previous command and run the following command:
+
+```
+npm run start
+```
+
 
 
 # External link
