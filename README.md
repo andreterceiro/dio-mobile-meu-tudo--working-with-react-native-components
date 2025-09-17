@@ -46,6 +46,8 @@ Teacher showed an example of handle touches in a View without a TouchableOpacity
 
 Teacher also said that instead of an inline function you could use an external function as a handler.
 
+A little comment: you could see in the image teacher dealing with a touch star and a touch end events.
+
 
 # External link
 
