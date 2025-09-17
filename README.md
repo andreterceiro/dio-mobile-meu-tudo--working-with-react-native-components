@@ -44,6 +44,9 @@ Teacher showed an example of handle touches in a View without a TouchableOpacity
 
 ![View - touches](images/View-touch.png)
 
+Teacher also said that instead of an inline function you could use an external function as a handler.
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
