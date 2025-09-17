@@ -66,6 +66,9 @@ Teacher said that if you wanna to output a text in the app you must use the Text
 
 ![without text = error](images/without-text-error.png)
 
+And you could also use the Text component to other different thing, like simulating a button.
+
+![text simulating a button](images/text-simulating-a-button.png)
 
 # External link
 
