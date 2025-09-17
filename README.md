@@ -29,6 +29,11 @@ Teacher had to open an emulator in Android Studio. Then in the terminal of the p
 Then the blank app was showed in the Android emulator.
 
 
+# View
+
+Teacher teached us that a View is equivalent to a "<div />" in HTML world.
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
