@@ -38,6 +38,12 @@ In the next image teacher showed some examples of <View>s in a cellphone screen:
 ![View](images/View.png)
 
 
+## Touching on a View
+
+Teacher showed an example of handle touches in a View without a TouchableOpacity
+
+![View - touches](images/View-touch.png)
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
