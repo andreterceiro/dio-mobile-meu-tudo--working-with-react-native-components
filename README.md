@@ -60,6 +60,13 @@ Teacher also teached that as you can see in the next image some events are speci
 ![android specific event](images/android-specific-event.png)
 
 
+# Text
+
+Teacher said that if you wanna to output a text in the app you must use the Text component:
+
+![without text = error](images/without-text-error.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
