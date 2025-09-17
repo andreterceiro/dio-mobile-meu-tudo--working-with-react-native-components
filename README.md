@@ -49,6 +49,13 @@ Teacher also said that instead of an inline function you could use an external f
 A little comment: you could see in the image teacher dealing with a touch star and a touch end events.
 
 
+## Documentation
+
+Teacher showed that we can see more about views (selection in the left part of the image) and its events (selection in the right part of the image).
+
+![documentation](images/documentation.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
