@@ -55,6 +55,10 @@ Teacher showed that we can see more about views (selection in the left part of t
 
 ![documentation](images/documentation.png)
 
+Teacher also teached that as you can see in the next image some events are specifically related to a platform (Android in the next image):
+
+![android specific event](images/android-specific-event.png)
+
 
 # External link
 
