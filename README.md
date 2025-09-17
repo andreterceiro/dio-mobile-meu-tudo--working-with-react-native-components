@@ -33,6 +33,10 @@ Then the blank app was showed in the Android emulator.
 
 Teacher teached us that a View is equivalent to a "<div />" in HTML world.
 
+In the next image teacher showed some examples of <View>s in a cellphone screen:
+
+![View](images/View.png)
+
 
 # External link
 
