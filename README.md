@@ -136,6 +136,13 @@ Teacher showed us these basic components:
 ![basic components](images/basic-components.png)
 
 
+# A note about the scroll view
+
+Teacher showed the documentation of ScrollView. ScrollView has events linked to scrolling (also).
+
+![ScrollView](images/ScrollView.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
