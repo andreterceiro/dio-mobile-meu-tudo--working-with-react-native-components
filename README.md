@@ -100,6 +100,11 @@ Teacher said that a Stylesheet mimics the behaviour of an HTML stylesheet.
 ![stylesheet creation](images/stylesheet-creation.png)
 
 
+## Use
+
+![stylesheet use](images/stylesheet-use.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
