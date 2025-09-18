@@ -121,6 +121,13 @@ Teacher showed us that we can pass an array of styles to be used, includind an i
 And in the case you have some repeteaded configuration, like "backgroundColor", the last will override the first.
 
 
+# Pressing levels
+
+Teacher showed that we can configure an action to different levels of pressure, like a long or a "normal" press:
+
+![long and "normal" press](images/long-normal-press.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
