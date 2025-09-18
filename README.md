@@ -70,11 +70,17 @@ And you could also use the Text component to other different thing, like simulat
 
 ![text simulating a button](images/text-simulating-a-button.png)
 
+
 ## Selectable text
 
 Please use in the Text component the "selectable" (={true}) property:
 
 ![text selectable property](images/text-selectable-property.png)
+
+
+# Components and frameworks
+
+Teacher said that besides React Native components, Expo provides some components also.
 
 
 # External link
