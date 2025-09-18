@@ -87,6 +87,7 @@ Teacher said that besides React Native components, Expo provides some components
 
 Teacher shower that we can have as example two tags <Text> inside a <View> tag (a breack line will be inserted between the texts in this case) and you can have as example two texts inside another <Text> tag (a break line will not be inserted between the inner texts).
 
+![texts inside a view and texts inside another text](images/texts-inside-views-and-texts-inside-text.png)
 
 
 # External link
