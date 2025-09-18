@@ -105,9 +105,11 @@ Teacher said that a Stylesheet mimics the behaviour of an HTML stylesheet.
 ![stylesheet use](images/stylesheet-use.png)
 
 
-# Comment
+# Comments
 
 Please pay attention that different from the HTML CSS where the words are separated by dashes, like "font-size", in React Native a camel case notation is used, like "fontSize".
+
+Teacher also said that style components can be used to format the layout of a component, that teacher defined as formating the component inside of him itself.
 
 
 # External link
