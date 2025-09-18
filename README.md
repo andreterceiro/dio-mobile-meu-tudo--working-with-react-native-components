@@ -90,6 +90,16 @@ Teacher shower that we can have as example two tags <Text> inside a <View> tag (
 ![texts inside a view and texts inside another text](images/texts-inside-views-and-texts-inside-text.png)
 
 
+# Stylesheet
+
+Teacher said that a Stylesheet mimics the behaviour of an HTML stylesheet.
+
+
+## Creation
+
+![stylesheet creation](images/sylesheet-creation.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
