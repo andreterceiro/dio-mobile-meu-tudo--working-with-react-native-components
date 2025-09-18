@@ -118,6 +118,8 @@ Teacher showed us that we can pass an array of styles to be used, includind an i
 
 ![array of styles](images/array-of-styles.png)
 
+And in the case you have some repeteaded configuration, like "backgroundColor", the last will override the first.
+
 
 # External link
 
