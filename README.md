@@ -128,6 +128,14 @@ Teacher showed that we can configure an action to different levels of pressure, 
 ![long and "normal" press](images/long-normal-press.png)
 
 
+
+# Basic components
+
+Teacher showed us these basic components:
+
+![basic components](images/basic-components.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
