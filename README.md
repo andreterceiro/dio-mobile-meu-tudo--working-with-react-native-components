@@ -112,6 +112,13 @@ Please pay attention that different from the HTML CSS where the words are separa
 Teacher also said that style components can be used to format the layout of a component, that teacher defined as formating the component inside of him itself.
 
 
+## Array of styles in use
+
+Teacher showed us that we can pass an array of styles to be used, includind an inline CSS, see:
+
+![array of styles](images/array-of-styles.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
