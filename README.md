@@ -97,7 +97,7 @@ Teacher said that a Stylesheet mimics the behaviour of an HTML stylesheet.
 
 ## Creation
 
-![stylesheet creation](images/sylesheet-creation.png)
+![stylesheet creation](images/stylesheet-creation.png)
 
 
 # External link
