@@ -142,6 +142,10 @@ Teacher showed the documentation of ScrollView. ScrollView has events linked to 
 
 ![ScrollView](images/ScrollView.png)
 
+Teacher showed an example of Views inside a ScrollView, this way you have automatically scroll in the app instead of a fixed view with its dimensions:
+
+![ScrollView example](images/ScrollView-example.png)
+
 
 # External link
 
