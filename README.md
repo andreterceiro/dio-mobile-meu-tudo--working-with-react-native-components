@@ -152,6 +152,10 @@ One way you can specify the **source** (not "src") of the Image is this way:
 
 ![image source without importing](images/image-source-without-importing.png)
 
+But you can import the image source:
+
+![specifying image path on importing](images/specifying-image-path-on-importing.png)
+
 
 # External link
 
