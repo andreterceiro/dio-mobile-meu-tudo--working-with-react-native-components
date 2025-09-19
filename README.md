@@ -160,6 +160,10 @@ In relation to the "style" property, teacher explained that we need to use two b
 
 ![style-two-brackets](images/style-two-brackets.png)
 
+Example of inline style:
+
+![example of inline style](images/example-of-inline-style.png)
+
 
 # External link
 
