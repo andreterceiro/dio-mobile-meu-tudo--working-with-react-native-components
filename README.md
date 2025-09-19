@@ -128,7 +128,6 @@ Teacher showed that we can configure an action to different levels of pressure, 
 ![long and "normal" press](images/long-normal-press.png)
 
 
-
 # Basic components
 
 Teacher showed us these basic components:
@@ -145,6 +144,13 @@ Teacher showed the documentation of ScrollView. ScrollView has events linked to 
 Teacher showed an example of Views inside a ScrollView, this way you have automatically scroll in the app instead of a fixed view with its dimensions:
 
 ![ScrollView example](images/ScrollView-example.png)
+
+
+# images
+
+One way you can specify the **source** (not "src") of the Image is this way:
+
+![image source without importing](images/image-source-without-importing.png)
 
 
 # External link
