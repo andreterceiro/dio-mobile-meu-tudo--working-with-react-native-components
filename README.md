@@ -165,6 +165,15 @@ Example of inline style:
 ![example of inline style](images/example-of-inline-style.png)
 
 
+# Switch
+
+Please see the following images of the basic use with useState:
+
+![switch 01](images/switch-01.png)
+
+![switch 02](images/switch-02.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
