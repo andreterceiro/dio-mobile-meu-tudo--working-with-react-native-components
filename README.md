@@ -156,6 +156,10 @@ But you can import the image source:
 
 ![specifying image path on importing](images/specifying-image-path-on-importing.png)
 
+In relation to the "style" property, teacher explained that we need to use two brackets on declaring an inline style an one bracket in the anohter case.
+
+![style-two-brackets](images/style-two-brackets.png)
+
 
 # External link
 
