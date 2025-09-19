@@ -174,6 +174,13 @@ Please see the following images of the basic use with useState:
 ![switch 02](images/switch-02.png)
 
 
+# Hinding or showing an image based on a switch
+
+Please see the following code and continue the idea of using the variable "ligado" linked to the swicth and to the user state:
+
+![showing or hiding an image](images/showing-or-hiding-an-image.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
