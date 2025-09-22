@@ -181,6 +181,14 @@ Please see the following code and continue the idea of using the variable "ligad
 ![showing or hiding an image](images/showing-or-hiding-an-image.png)
 
 
+# Text input
+
+Remember to import TextInput to use it:
+
+```
+import {TextInput}
+```
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
