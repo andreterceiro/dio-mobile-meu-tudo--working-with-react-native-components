@@ -201,3 +201,4 @@ In this example you could see:
 
 - The basic use of TextInput, obviously;
 - An example of placeholder;
+- An example of limiting the keys of the keyboard (keyboardType).
