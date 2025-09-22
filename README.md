@@ -192,3 +192,7 @@ import {TextInput}
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
+
+Teacher showed an example of use:
+
+![using text input = example](images/using-text-input-example.png)
