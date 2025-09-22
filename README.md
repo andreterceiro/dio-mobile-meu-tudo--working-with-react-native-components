@@ -199,4 +199,5 @@ Teacher showed an example of use:
 
 In this example you could see:
 
-- the basic use of TextInput, obviously;
+- The basic use of TextInput, obviously;
+- An example of placeholder;
