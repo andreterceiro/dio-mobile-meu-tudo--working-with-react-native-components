@@ -196,3 +196,7 @@ Teacher also passed [this link about components and APIs](https://reactnative.de
 Teacher showed an example of use:
 
 ![using text input = example](images/using-text-input-example.png)
+
+In this example you could see:
+
+- the basic use of TextInput, obviously;
