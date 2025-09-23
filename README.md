@@ -217,6 +217,11 @@ Notes:
 - '' is the initial value.
 
 
+# Caputuring keys pressed
+
+![capturing keys pressed](images/capturing-keys-pressed.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
