@@ -222,6 +222,11 @@ Notes:
 ![capturing keys pressed](images/capturing-keys-pressed.png)
 
 
+## Button showing a variable reflecting a state
+
+![button showing a variable reflecting a state](images/button-showing-a-variable-reflecting-a-state.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
