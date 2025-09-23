@@ -212,6 +212,10 @@ import React, {useState}  from 'react'
 const [usuario, setUsuario] = useState('')
 ```
 
+Notes:
+- Again, you can use **const** because you are using **useState**;
+- '' is the initial value.
+
 
 # External link
 
