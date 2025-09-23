@@ -194,6 +194,11 @@ import {TextInput}
 ![keypress - onChange](images/keypress-on-change.png)
 
 
+# Button
+
+Teacher also exemplified a use of a <Button> with useState.
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
