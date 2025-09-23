@@ -189,6 +189,11 @@ Remember to import TextInput to use it:
 import {TextInput}
 ```
 
+## keypress - onChange event handler to capture each key pressed
+
+![keypress - onChange](images/keypress-on-change.png)
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
