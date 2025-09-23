@@ -206,6 +206,13 @@ import React, {useState}  from 'react'
 ```
 
 
+## Declaring the variable to use useState
+
+```
+const [usuario, setUsuario] = useState('')
+```
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
