@@ -217,7 +217,7 @@ Notes:
 - '' is the initial value.
 
 
-# Caputuring keys pressed
+## Caputuring keys pressed
 
 ![capturing keys pressed](images/capturing-keys-pressed.png)
 
