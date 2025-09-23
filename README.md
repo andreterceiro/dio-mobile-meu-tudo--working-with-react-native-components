@@ -199,6 +199,13 @@ import {TextInput}
 Teacher also exemplified a use of a <Button> with useState.
 
 
+## Importing React and useState
+
+```
+import React, {useState}  from 'react'
+```
+
+
 # External link
 
 Teacher also passed [this link about components and APIs](https://reactnative.dev/docs/components-and-apis) in the complimentary materials area.
